@@ -1,4 +1,4 @@
-![DocAppoint](http://docappoint.techtethers.com/assets/img/logo.png)
+![DocAppoint](docappoint.techtethers.com/assets/img/logo.png)
 
 # DocAppoint
 Web Appointment System For Doctors, allowing patients to take online appointments 
