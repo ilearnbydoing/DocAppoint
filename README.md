@@ -1,20 +1,14 @@
+
 ![logo](https://raw.githubusercontent.com/iamharshthakkar/DocAppoint/master/assets/img/logo.png)
 
-Web Appointment System For Doctors, allowing patients to take online appointments 
-
-
+Web Appointment System For Doctors, allowing patients to take online appointments.
 
 # Installation
 
 Follow the instruction below to install DocAppoint.
 
-1. Clone the git repository or download this project as zip and lo using:
-2. Set the correct directory permissions: 
-    
-    chmod -R 755 ./
-
-Depending on your server configuration, it might be necessary to set whole write permissions (777) to the files and folders above. You can also start testing with lower permissions due to security reasons (644 for example) as long as your php process can write to those files.
-
+1. Clone the git repository `git@github.com:iamharshthakkar/DocAppoint.git` or download this project as zip.
+2. Set the correct directory permissions `chmod -R 755 ./` Depending on your server configuration, it might be necessary to set whole write permissions (777) to the files and folders above. You can also start testing with lower permissions due to security reasons (644 for example) as long as your php process can write to those files.
 3. 
 
 # Server configuration
@@ -43,16 +37,16 @@ To install DocAppoint, you need a web server running PHP 5.2+ and any flavor of 
 #### Change Password
 
 # Screenshot
-![screenshot1](https://raw.githubusercontent.com/iamharshthakkar/DocAppoint/master/assets/img/features/macbookpro13_front.png)
-![screenshot2](https://raw.githubusercontent.com/iamharshthakkar/DocAppoint/master/assets/img/features/macbookpro13_front%20(1).png)
-![screenshot3](https://raw.githubusercontent.com/iamharshthakkar/DocAppoint/master/assets/img/features/macbookpro13_front%20(2).png)
-![screenshot4](https://raw.githubusercontent.com/iamharshthakkar/DocAppoint/master/assets/img/features/macbookpro13_front%20(3).png)
-![screenshot5](https://raw.githubusercontent.com/iamharshthakkar/DocAppoint/master/assets/img/features/macbookpro13_front%20(4).png)
-![screenshot6](https://raw.githubusercontent.com/iamharshthakkar/DocAppoint/master/assets/img/features/macbookpro13_front%20(5).png)
+![screenshot1](https://raw.githubusercontent.com/iamharshthakkar/DocAppoint/master/assets/img/features/macbookpro13_front.png | width=25)
+![screenshot2](https://raw.githubusercontent.com/iamharshthakkar/DocAppoint/master/assets/img/features/macbookpro13_front%20(1).png | width=25)
+![screenshot3](https://raw.githubusercontent.com/iamharshthakkar/DocAppoint/master/assets/img/features/macbookpro13_front%20(2).png | width=25)
+![screenshot4](https://raw.githubusercontent.com/iamharshthakkar/DocAppoint/master/assets/img/features/macbookpro13_front%20(3).png | width=25)
+![screenshot5](https://raw.githubusercontent.com/iamharshthakkar/DocAppoint/master/assets/img/features/macbookpro13_front%20(4).png | width=25)
+![screenshot6](https://raw.githubusercontent.com/iamharshthakkar/DocAppoint/master/assets/img/features/macbookpro13_front%20(5).png | width=25)
 # Support
 #### If you need help using DocAppoint, contact the: harsh.thakkar1235@gmail.com.
 
 # Author
-Designed & Developed with ❤️ By Harsh Thakkar
+Designed & Developed with ❤️ By [Harsh Thakkar](mailto:harsh.thakkar1235@gmail.com)
 
 ## Thank you for exploring...
