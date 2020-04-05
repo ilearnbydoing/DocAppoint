@@ -1,6 +1,7 @@
+![DocAppoint](http://docappoint.techtethers.com/assets/img/logo.png)
+
 # DocAppoint
 Web Appointment System For Doctors, allowing patients to take online appointments 
-
 
 
 
@@ -49,4 +50,4 @@ To install DocAppoint, you need a web server running PHP 5.2+ and any flavor of 
 # Author
 Designed & Developed with ❤️ By Harsh Thakkar
 
-# Thank you for exploring...
+## Thank you for exploring...
