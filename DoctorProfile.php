@@ -88,8 +88,7 @@ if (isset($_GET[md5(session_id() + "id")])) {
 								<div class="doc-info-cont">
 									<h4 class="doc-name">Dr. <?php echo $row["first_name"] . "." . $row["last_name"]; ?></h4>
 									<p class="doc-speciality"><?php echo $row["title"] ?></p>
-									<p class="doc-department"><img src="<?php echo $row["profile_url"] ?>" class="img-fluid" alt="Speciality">Dentist</p>
-									<?php
+								<?php
 									echo '<div class="rating">
 														<i class="fas fa-star ' . ($row["ratings"] - 1 >= 0 ? "filled" : "") . '"></i>
 														<i class="fas fa-star ' . ($row["ratings"] - 2 >= 0 ? "filled" : "") . '"></i>
